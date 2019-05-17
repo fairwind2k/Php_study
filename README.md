@@ -1,2 +1,2 @@
-# Php-study
+# Php_study
 Study projects.
